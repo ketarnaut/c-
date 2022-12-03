@@ -1,0 +1,15 @@
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/bin/Debug/net6.0/Ex4
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/bin/Debug/net6.0/Ex4.deps.json
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/bin/Debug/net6.0/Ex4.runtimeconfig.json
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/bin/Debug/net6.0/Ex4.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/bin/Debug/net6.0/Ex4.pdb
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.csproj.AssemblyReference.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfoInputs.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfo.cs
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.csproj.CoreCompileInputs.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/refint/Ex4.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.pdb
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/Ex4.genruntimeconfig.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex4/obj/Debug/net6.0/ref/Ex4.dll

@@ -1,0 +1,15 @@
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.csproj.AssemblyReference.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.AssemblyInfoInputs.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.AssemblyInfo.cs
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.csproj.CoreCompileInputs.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/bin/Debug/net6.0/Ex6
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/bin/Debug/net6.0/Ex6.deps.json
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/bin/Debug/net6.0/Ex6.runtimeconfig.json
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/bin/Debug/net6.0/Ex6.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/bin/Debug/net6.0/Ex6.pdb
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/refint/Ex6.dll
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.pdb
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/Ex6.genruntimeconfig.cache
+/Users/ekaterinaarnaut/Desktop/gbc/Homework1/Ex6/obj/Debug/net6.0/ref/Ex6.dll
