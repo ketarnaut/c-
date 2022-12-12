@@ -7,10 +7,7 @@
 //функция по выводу массива
 void ArrayOutput(int x)
 {
-    if (x != 0) 
-    {
     Console.Write(" " + x);
-    }
 }
 
 //Запрос числа и его сохранение в переменную
@@ -21,7 +18,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[N+1];
 
 //Перебор массива и его вывод
-    for (int i = 0; i < N+1; i++)
+    for (int i = 1; i < N+1; i++)
     {
         int x = Convert.ToInt32(Math.Pow(i, 3));
        // Console.Write(" " + x);
