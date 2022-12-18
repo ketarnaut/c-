@@ -27,20 +27,20 @@ int [] arrayOfNumber = new int[lenght];
 //Генерим n чисел и помещаем в массив
 //CreateNewArray(lenght, arrayOfNumber[lenght]);
 for (int i = 0; i < lenght; i++)
-    {
-        int digit = new Random().Next(100, 999);
-        arrayOfNumber[i] = digit;
-    }
+{
+    int digit = new Random().Next(100, 999);
+    arrayOfNumber[i] = digit;
+}
 
 //проверяем каждое число в массиве и считаем четные
 
 for (int i = 0; i < lenght; i++)
+{
+    if (arrayOfNumber[i] % 2 == 0)
     {
-        if (arrayOfNumber[i] % 2 == 0)
-        {
-            count++;
-        }
-    }  
+        count++;
+    }
+}  
 
 //Вывести массив
  printArray(arrayOfNumber, lenght); 

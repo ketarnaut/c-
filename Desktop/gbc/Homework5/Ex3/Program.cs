@@ -4,24 +4,24 @@
 */
 
 //Создать массив чисел
-int[] CreateRandomArray(int lenght)
+double[] CreateRandomArray(int lenght)
 {
-    int[] array = new int[lenght];
+    double[] array = new double[lenght];
     Random rnd = new Random();
     for (int i = 0; i < lenght; i++)
     {
-        array[i] = rnd.Next(1, 100000);
+        array[i] = Convert.ToDouble(rnd.Next(10000)/100.0);
     }
     return array;
 }
 
 //
-void printArray(int[] array, int lenght)
+void printArray(double[] array, int lenght)
 {
     Console.Write("[");
     for (int i = 0; i < lenght; i++)
     {
-        Console.Write(" " + array[i]);
+        Console.Write(" " + array[i],2);
     }
         Console.Write("]");
 
@@ -33,27 +33,26 @@ Console.WriteLine("введите, сколько чисел генерить в
 int lenght = Convert.ToInt32(Console.ReadLine());
 
 //Генериуем и заполняем массив на n элементов
-int[] array = CreateRandomArray(lenght);
+double[] array = CreateRandomArray(lenght);
 
 //Вывести массив
- printArray(array, lenght); 
+printArray(array, lenght); 
 
 //Найти максимальное и минимальное
-int max = array[0];
-int min = array[1];
+double max = array[0];
+double min = array[1];
 
 for (int i = 2; i < lenght; i++)
+{
+    if (array[i] > max)
     {
-        if (array[i] > max)
-        {
-            max = array[i];
-        }
-        else if (array[i] < min)
-        {
-            min = array[i];
-        }
-
-    } 
+        max = array[i];
+    }
+    else if (array[i] < min)
+    {
+        min = array[i];
+    }
+} 
 
 //Посчитать и вывести результат
 Console.WriteLine(max - min);  

@@ -1,6 +1,5 @@
 ﻿/*Задача 2 Зайдайте массив заполненных случайными числами.
-Программа должна показать сумму нечетных элементов
-
+Программа должна показать сумму элементах, стоящих на нечетных позициях
 */
 
 //Запросить сколько чисел генерить в массив (n)
@@ -14,21 +13,21 @@ int [] arrayOfNumber = new int[lenght];
 //Генерис n чисел и помещаем в массив
 //CreateNewArray(lenght, arrayOfNumber[lenght]);
 for (int i = 0; i < lenght; i++)
-    {
-        int digit = new Random().Next(100, 999);
-        arrayOfNumber[i] = digit;
-    }
+{
+    int digit = new Random().Next(100, 999);
+    arrayOfNumber[i] = digit;
+}
 
 //проверяем каждое число в массиве и суммируем нечетные
 //CheckOfArray(lenght, arrayOfNumber[lenght]);
 
 for (int i = 0; i < lenght; i++)
+{
+    if (i % 2 == 1)
     {
-        if (arrayOfNumber[i] % 2 == 1)
-        {
-            sum = sum + arrayOfNumber[i];
-        }
-    }  
+        sum = sum + arrayOfNumber[i];
+    }
+}  
 
 //выводим массив
 
