@@ -10,7 +10,7 @@ double[] CreateRandomArray(int lenght)
     Random rnd = new Random();
     for (int i = 0; i < lenght; i++)
     {
-        array[i] = Convert.ToDouble(rnd.Next(10000)/100.0);
+        array[i] = Math.Round((rnd.Next(1, 100) + rnd.NextDouble()),2);
     }
     return array;
 }
